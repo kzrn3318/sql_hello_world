@@ -1,5 +1,6 @@
-# sql_standard
-pythonのsqlite3を使用しsqlからデータの取得をする関数
+# sql_hello
+sqlを最初に触れる。
+pythonのsqlite3を使用しsqlからデータの取得をする関数。
 
 使用ライブラリー
 
